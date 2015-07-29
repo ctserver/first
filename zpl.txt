@@ -5,4 +5,4 @@ fore
 five
 six
 seven
-night
+ten
